@@ -23,9 +23,17 @@ Here are some ideas to get you started:
 <div>
   <p>
     Full-stack developer that loves to problem solve and help others. Prior to finding my passion for computer coding I had a very mechanical oriented background. 
+  </p>
+  <p>
     I previously worked as a car mechanic at a Nissan dealership and after that I worked for the Department of Defense as a Nuclear Mechanic. 
+  </p>
+  <p>
     My other passion is wood working 🪵🪚! I Run my own General contracting buisness and perform custom woodwork. 
   </p>
+
+  <hr>
+  ### Some more info about me 😄
+  
   <ul>
     <li>Recently Graduated from Coding Dojo with a triple black belt (Highest honors)</li>
     <li>During the course I developed the skill to work with Full-Stack Languages</li>
