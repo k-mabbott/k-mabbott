@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 -->
 <div>
   <p>
-    Full-stack developer that loves to problem solve and help others. I have found a passion for coding
+    Full-stack developer that loves to problem solve and help others. Prior to finding my passion for computer coding I had a very mechanical oriented background. 
+    I previously worked as a car mechanic at a Nissan dealership and after that I worked for the Department of Defense as a Nuclear Mechanic. 
+    My other passion is wood working 🪵🪚! I Run my own General contracting buisness and perform custom woodwork. 
   </p>
   <ul>
     <li>Recently Graduated from Coding Dojo with a triple black belt (Highest honors)</li>
@@ -86,7 +88,7 @@ Here are some ideas to get you started:
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
-  
+  <p>Visual Studio Code | HTML | CSS | Bootstrap | JavaScript | React | Node.Js | Python | Flask | C Sharp | ASP.NET | Windows Logo</p>
 </div>
 
 <br>
