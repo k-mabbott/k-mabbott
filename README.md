@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
+  
+  ### Access my profile page [Here!](https://k-mabbott.github.io/Profile-page/ "Profile Page")
   <p>
     Full-stack developer that loves to problem solve and help others. Prior to finding my passion for computer coding I had a very mechanical oriented background. 
   </p>
@@ -30,8 +32,9 @@ Here are some ideas to get you started:
   <p>
     My other passion is wood working 🪵🪚! I Run my own General contracting buisness and perform custom woodwork. 
   </p>
-
+  
   <hr>
+  
   ### Some more info about me 😄
   
   <ul>
