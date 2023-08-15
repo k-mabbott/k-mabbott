@@ -30,8 +30,16 @@ Here are some ideas to get you started:
     I previously worked as a car mechanic at a Nissan dealership and after that I worked for the Department of Defense as a Nuclear Mechanic. 
   </p>
   <p>
-    My other passion is wood working 🪵🪚! I Run my own General contracting buisness and perform custom woodwork. 
+    My other passion is wood working 🪵🪚! Currently I run my own General contracting buisness and perform custom woodwork.
   </p>
+
+### Always learning ⌨️📖
+
+- 🔭 I’m currently working on building my portfolio and projects
+- 🌱 I’m currently learning the Django framework && Unity 3D
+- 👯 I’m looking to collaborate on just about anything! send me a message lets talk
+
+
   
   <hr>
   
