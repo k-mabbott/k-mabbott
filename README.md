@@ -33,12 +33,13 @@ Here are some ideas to get you started:
     My other passion is wood working 🪵🪚! Currently I run my own General contracting buisness and perform custom woodwork.
   </p>
   
-### Visit my Company's website [Here!](http://kmabbconstruction.com/ "Profile Page") I built this with C# / MySQL / ASP.NET 🤓
+### Visit my Company's website [Here!](http://kmabbconstruction.com/ "Profile Page") Built with C# / HTML / CSS / MySQL / ASP.NET / Entity Framework. Deployed on AWS EC2 🤓  
+### Also here is a Pokedex app [Click Me](https://pokedex-kmabb.vercel.app/) Built with JavaScript / HTML / CSS / Express.js / React. Deployed on Vercel.
 
 ### Always learning ⌨️📖
 
 - 🔭 I’m currently working on building my portfolio and projects
-- 🌱 I’m currently learning the Django framework && Unity 3D
+- 🌱 I’m currently learning the Django framework && Game Maker 2
 - 👯 I’m looking to collaborate on just about anything! send me a message lets talk
 
 
@@ -120,7 +121,6 @@ Here are some ideas to get you started:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api?username=k-mabbott&theme=algolia&show_icons=true)](https://github.com/k-mabbott)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-mabbott&theme=algolia&show_icons=true" alt="k-mabbott" /></p>
 
 </div>
 
