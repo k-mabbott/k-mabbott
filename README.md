@@ -2,6 +2,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+github+page!)](https://git.io/typing-svg)
 </p>
+
 <h1 align="center">
   Hi there, I am Kyle Mabbott! 👋
 </h1>
