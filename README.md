@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 <div>
   
-  ### Access my profile page [Here!](https://k-mabbott.github.io/Profile-page/ "Profile Page")
+  <h3> Access my profile page <a href="https://k-mabbott.github.io/Profile-page/" >Here!</a>  </h3>
   <p>
     Full-stack developer that loves to problem solve and help others. Prior to finding my passion for computer coding I had a very mechanical oriented background. 
   </p>
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
     My other passion is wood working 🪵🪚! Currently I run my own General contracting buisness and perform custom woodwork.
   </p>
   
-### Visit my Company's website [Here!](http://kmabbconstruction.com/ "Profile Page") Built with C# / HTML / CSS / MySQL / ASP.NET / Entity Framework. Deployed on AWS EC2 🤓  
-### Also here is a Pokedex app [Click Me](https://pokedex-kmabb.vercel.app/) Built with JavaScript / HTML / CSS / Express.js / React. Deployed on Vercel.
+<h3> Visit my Company's website <a href="http://kmabbconstruction.com/" >Here!</a> Built with C# / HTML / CSS / MySQL / ASP.NET / Entity Framework. Deployed on AWS EC2 🤓 </h3> 
+<h3> Also here is a Pokedex app <a href="https://pokedex-kmabb.vercel.app/" >Here!</a> Built with JavaScript / HTML / CSS / Express.js / React. Deployed on Vercel. </h3>
 
 ### Always learning ⌨️📖
 
