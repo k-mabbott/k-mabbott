@@ -33,8 +33,10 @@ Here are some ideas to get you started:
   <p>
     My other passion is wood working 🪵🪚! Currently I run my own General contracting buisness and perform custom woodwork.
   </p>
-  
-<h3> Visit my Company's website <a href="http://kmabbconstruction.com/" >Here! * temporarily down due to AWS billing issue</a> Built with C# / HTML / CSS / MySQL / ASP.NET / Entity Framework. Deployed on AWS EC2 🤓 </h3> 
+
+[//]: # (<a href="http://kmabbconstruction.com/" >Here)
+
+<h3> Built my Company's website ! Built with C# / HTML / CSS / MySQL / ASP.NET / Entity Framework. Deployed on AWS EC2 🤓 </h3> 
 <h3> Check out this React Pokedex app <a href="https://pokedex-kmabb.vercel.app/" >Here!</a> Built with JavaScript / HTML / CSS / Express.js / React. Deployed on Vercel. </h3>
 <h3> Need an API? Here is a list you can filter through <a href="https://movie-app-delta-weld.vercel.app/" >Here!</a> Built with JavaScript / HTML / CSS / Express.js / React. Deployed on Vercel. </h3>
 
@@ -45,7 +47,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on just about anything! send me a message lets talk
 
 
-  
   <hr>
   
   ### Some more info about me 😄
