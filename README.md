@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     I previously worked as a car mechanic at a Nissan dealership and after that I worked for the Department of Defense as a Nuclear Mechanic. 
   </p>
   <p>
-    My other passion is wood working 🪵🪚! Currently I run my own General contracting buisness and perform custom woodwork.
+    My other passion is wood working 🪵🪚! Currently I run my own General contracting buisness and perform custom wood and light metal work.
   </p>
 
 [//]: # (<a href="http://kmabbconstruction.com/" >Here)
